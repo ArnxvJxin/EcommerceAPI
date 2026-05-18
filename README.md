@@ -1,3 +1,5 @@
+# EcommerceAPI
+REST APIs for product catalogue, cart, and order management.
 # Ecommerce Backend API
 
 ## Features
@@ -27,3 +29,8 @@ CREATE DATABASE ecommerce_db;
 - POST /cart
 - GET /orders
 - POST /orders
+=======
+# EcommerceAPI
+REST APIs for product catalogue, cart, and order management.
+git add <filename>
+
